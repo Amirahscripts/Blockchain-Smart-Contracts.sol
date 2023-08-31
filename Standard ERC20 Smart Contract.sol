@@ -76,3 +76,11 @@ contract MyToken is IERC20 {
 }
 
 See ERC20 token implementation.sol for breakdown and explanation of the code. 
+
+This code is for a standard smart contract. It does not include the following functions: 
+A mechanism to mint new tokens.
+A mechanism to burn tokens.
+A pause mechanism to halt transfers in case of emergencies.
+Role-based access control for administrative functions.
+
+For this new code will need to be added.
